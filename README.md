@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Xambulu
+- 👋 Hi, I’m samuel 
 - 👀 I’m interested in Devops
-- 🌱 I’m currently taking an online trainng in AWS
-- 💞️ I’m looking to where get a devops entry role to shapen my skills
+- 🌱 I’m currently taking an online trainng in AWS and just would want to pickup some devops skills
+- 💞️ I’m looking to where get a devops entry role to sharpen my skills
 - 📫 You can reach with my email samueloyetade3@gmail.com
 
 <!---
